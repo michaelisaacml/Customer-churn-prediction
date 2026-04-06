@@ -13,3 +13,9 @@ This project predicts customer churn using machine learning.
 data/ - dataset  
 notebooks/ - analysis notebook  
 src/ - python scripts
+
+## Run the Web App
+Install dependencies:
+pip install -r requirements.txt
+Run the app:
+streamlit run app.py
